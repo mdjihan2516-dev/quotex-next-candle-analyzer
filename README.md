@@ -1,0 +1,1 @@
+# quotex-next-candle-analyzer
